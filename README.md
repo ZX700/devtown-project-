@@ -5,7 +5,7 @@ This project applies **Machine Learning models** to the **UCI Heart Disease Data
 It covers **data preprocessing, model training, and evaluation** with multiple ML algorithms.
 ## 📌 Project Overview
 Heart disease is one of the leading causes of death globally. Early prediction using patient health records can assist in better treatment and prevention.  
-In this project, we:
+In this project, i:
 - Preprocess the dataset (handle missing values, encode categorical features, scale data).
 - Train machine learning models such as:
   - Logistic Regression
@@ -19,7 +19,7 @@ In this project, we:
   - ROC-AUC
 - Visualize results (Confusion Matrix, ROC Curve).
 ## 📂 Dataset
-We use the **UCI Heart Disease Dataset** which contains patient health features such as:
+i use the **UCI Heart Disease Dataset** which contains patient health features such as:
 - Age, Sex, Chest Pain type (cp), Resting Blood Pressure (trestbps), Cholesterol (chol),  
 - Maximum Heart Rate (thalach), Exercise Induced Angina (exang), ST Depression (oldpeak),  
 - And others.
