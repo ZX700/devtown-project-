@@ -40,4 +40,5 @@ Python 3
 Pandas, NumPy → Data handling
 Scikit-learn → ML models & preprocessing
 Matplotlib, Seaborn → Visualization
+Author: Uwaechi Emmanuel Temilayo (temilayouwaechi@gmail.com) 
 
